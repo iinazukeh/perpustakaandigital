@@ -1,2 +1,2 @@
 # perpustakaandigital
-Mencoba membuat digital library         8
+Mencoba membuat digital library      
