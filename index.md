@@ -2,7 +2,7 @@
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
-1. [Bahagia kenapa tidak](ebook/Bahagia_kenapa_tidak.pdf) – Wattimena (2015)
+1. [Bahagia kenapa tidak](ebook/Bahagia_kenapa_tidak.pdf) – Wattimena (2015) 
 2. [Ada Cinta di SMA](/ebook/Ada_Cinta_di_SMA_CJR.pdf) – Haqi Achmad (2016)
 3. [Ayat-ayat Api](/ebook/Ayat_ayat_api.pdf) – Sapardi Djoko Damono (2000)
 4. [Islam Agamaku](/ebook/Buku_islam_agamaku.pdf) – Burhanuddin TR. (2016)
@@ -13,3 +13,4 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [Pengantar Filsafat Umum](/ebook/Pengantar-Filsafat-Umum.pdf) – Nurani Soyomukti (2017)
 10. [Yang Fana Adalah Waktu](/ebook/Yang_fana_adalah_waktu.pdf) – Sapardi Djoko Damono (2018)
 11. [The Predictability of Demograp](/ebook/The_Predictability_of_Demograp.pdf) – Matthew J. Salganik et al. (2020)
+12. [Rangkuman UGC Linggar Nicky Setyamada 150](/ebook/Rangkuman_UGC_Linggar%20Nicky%20Setyamada_150.pdf)
