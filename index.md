@@ -4,7 +4,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
 1. [Bahagia kenapa tidak](ebook/Bahagia_kenapa_tidak.pdf) – Wattimena (2015) 
 2. [Ada Cinta di SMA](/ebook/Ada_Cinta_di_SMA_CJR.pdf) – Haqi Achmad (2016)
-3. [Ayat-ayat Api](/ebook/Ayat_ayat_apipdf) – Sapardi Djoko Damono (2000)
+3. [Ayat-ayat Api](/ebook/Ayat_ayat_api.pdf) – Sapardi Djoko Damono (2000)
 4. [Islam Agamaku](/ebook/Buku_islam_agamaku.pdf) – Burhanuddin TR. (2016)
 5. [Bumi](/ebook/Bumi_Tere_liye.pdf) – Tere Liye (2014)
 6. [Dilan](/ebook/Dilan.pdf) – Pidi Baiq (2014)
