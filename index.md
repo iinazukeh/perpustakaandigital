@@ -13,4 +13,3 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [Pengantar Filsafat Umum](/ebook/Pengantar-Filsafat-Umum.pdf) – Nurani Soyomukti (2017)
 10. [Yang Fana Adalah Waktu](/ebook/Yang_fana_adalah_waktu.pdf) – Sapardi Djoko Damono (2018)
 11. [The Predictability of Demograp](/ebook/The_Predictability_of_Demograp.pdf) – Matthew J. Salganik et al. (2020)
-8Powered by GitHub Pages*
