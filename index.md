@@ -1,3 +1,7 @@
+Nama: Linggar Nicky Setyamada
+NIM: 13040124140150
+Kelas: D
+
 # Digital Library
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
