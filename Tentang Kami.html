@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>OPAC - Perpustakaan Akamsi</title>
+  <link rel="stylesheet" href="https://kit.fontawesome.com/f9355065a6.css" crossorigin="anonymous">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #1D1D1D;
+      color: #ffffff;
+      background-image: url('background1.jpg');
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+    }
+
+    header {
+      background-color: #347928;
+      padding: 20px;
+      display: flex;
+      align-items: center;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    }
+
+    header img {
+      height: 60px;
+      margin-right: 15px;
+    }
+
+    header h1 {
+      font-size: 22px;
+      color: #fff;
+      font-family: 'Press Start 2P', cursive;
+    }
+
+    nav {
+      background-color: #521C0D;
+      padding: 10px 0;
+    }
+
+    nav ul {
+      list-style-type: none;
+      display: flex;
+      justify-content: center;
+      margin: 0;
+      padding: 0;
+    }
+
+    nav ul li {
+      margin: 0 15px;
+    }
+
+    nav ul li a {
+      text-decoration: none;
+      color: #fff;
+      font-weight: bold;
+      padding: 10px 20px;
+      background-color: #255F38;
+      border-radius: 5px;
+      transition: background 0.3s;
+    }
+
+    nav ul li a:hover,
+    nav ul li a.active {
+      background-color: #3E5210;
+    }
+
+    .sejarah-section {
+      max-width: 1100px;
+      margin: 40px auto;
+      background: rgba(94, 124, 22, 0.9);
+      padding: 25px;
+      border-radius: 12px;
+      color: #fff;
+      box-shadow: 0 0 15px rgba(94,124,22,0.7);
+      font-family: 'Georgia', serif;
+    }
+
+    .sejarah-section h2 {
+      text-align: center;
+      font-size: 2rem;
+      margin-bottom: 20px;
+    }
+
+    .profil-anggota {
+      max-width: 1100px;
+      margin: 40px auto;
+      padding: 20px;
+      background: rgba(46,46,46,0.9);
+      border-radius: 12px;
+      box-shadow: 0 0 20px rgba(0,0,0,0.7);
+    }
+
+    .profil-anggota h2 {
+      text-align: center;
+      color: #5E7C16;
+      font-family: 'Press Start 2P', cursive;
+      margin-bottom: 30px;
+    }
+
+    .anggota-list {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 25px;
+    }
+
+    .anggota {
+      background: #2E2E2E;
+      border: 2px solid #5E7C16;
+      border-radius: 10px;
+      width: 250px;
+      text-align: center;
+      padding: 15px;
+      color: white;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.7);
+      transition: transform 0.3s;
+    }
+
+    .anggota:hover {
+      transform: scale(1.05);
+    }
+
+    .anggota img {
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+      border: 3px solid #5E7C16;
+      object-fit: cover;
+      margin-bottom: 15px;
+    }
+
+    .anggota h3 {
+      color: #5E7C16;
+      margin-bottom: 5px;
+    }
+
+    .anggota p {
+      font-size: 0.85rem;
+      color: #ccc;
+      margin: 3px 0;
+    }
+
+    .anggota a {
+      display: inline-block;
+      margin-top: 10px;
+      color: #5E7C16;
+      font-weight: bold;
+      text-decoration: none;
+    }
+
+    footer {
+      background-color: #000;
+      text-align: center;
+      padding: 15px 0;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <img src="logo1.png" alt="Logo UNRAM" />
+  <h1>Perpustakaan Akamsi</h1>
+</header>
+
+<nav>
+  <ul>
+    <li><a href="Beranda.html">Beranda</a></li>
+    <li><a href="Katalog Buku.html">Katalog Buku</a></li>
+    <li><a href="Visi-Misi.html">Visi Misi</a></li>
+    <li><a href="Tentang Kami.html" class="active">Tentang Kami</a></li>
+  </ul>
+</nav>
+
+<section class="sejarah-section">
+  <h2>Profil Perpustakaan Akamsi</h2>
+  <p>Perpustakaan Akamsi, yang didirikan pada tahun 2025, merupakan perpustakaan digital hasil gagasan empat remaja yang memiliki minat yang sama dalam membaca, khususnya novel-novel bertema remaja. Perpustakaan ini lahir dari kebiasaan membaca bersama mereka dan bertujuan untuk menyediakan sebuah wadah digital yang dapat diakses oleh siapa saja, kapan saja, dan dari mana saja.</p>
+  <p>Tujuan utama Perpustakaan Akamsi adalah menghadirkan ruang baca digital yang ramah dan mudah diakses, serta menjadi tempat bagi siapa pun yang ingin bernostalgia dengan masa-masa muda melalui berbagai bacaan. Dengan mengandalkan teknologi, perpustakaan ini menghapus batasan fisik dalam mengakses buku, menjadikannya lebih inklusif dan fleksibel.</p>
+  <p>Layanan unggulan yang ditawarkan meliputi akses buku digital gratis, koleksi bacaan remaja dan nostalgia, serta kemudahan akses kapan saja dan di mana saja melalui gadget.</p>
+</section>
+
+<style>
+  .jabatan-badge {
+    display: inline-block;
+    background-color: #5E7C16;
+    color: white;
+    font-size: 0.75rem;
+    padding: 5px 10px;
+    border-radius: 15px;
+    margin-bottom: 8px;
+    font-weight: bold;
+  }
+
+  .anggota.ketua {
+    border: 2px solid gold;
+  }
+
+  .anggota.wakil {
+    border: 2px solid silver;
+  }
+
+  .anggota.sekretaris {
+    border: 2px solid #5E7C16;
+  }
+
+  .anggota.anggota {
+    border: 2px dashed #5E7C16;
+  }
+
+  .profil-anggota h2 span {
+    display: block;
+    font-size: 1rem;
+    color: #ccc;
+    margin-top: 5px;
+    font-style: italic;
+  }
+</style>
+
+<section class="profil-anggota">
+  <h2>STRUKTUR ORGANISASI <span>Periode 2025</span></h2>
+  <div class="anggota-list">
+
+    <!-- Ketua -->
+    <div class="anggota ketua">
+      <img src="RAFFI.jpeg" alt="Rafi" />
+      <div class="jabatan-badge">KETUA</div>
+      <h3>🎯 Rafi Ahmad Akbar</h3>
+      <p>NIM: 13040124140136</p>
+      <p>🔍 "Manusia boleh berencana, tapi akhirnya Tuhanlah yang menentukan."</p>
+      <p style="color: #aaa;">Visioner dengan prinsip dan iman kuat 💡</p>
+      <a href="https://www.instagram.com/rfiakbb/" target="_blank"><i class="fab fa-instagram"></i> Instagram</a>
+    </div>
+
+    <!-- Wakil Ketua -->
+    <div class="anggota wakil">
+      <img src="LINGGAR.jpeg" alt="Linggar" />
+      <div class="jabatan-badge">WAKIL KETUA</div>
+      <h3>🎤 Linggar Nicky Setyamada</h3>
+      <p>NIM: 13040124140150</p>
+      <p>🧠 "Be a vocal, not echo."</p>
+      <p style="color: #aaa;">Aktivis ide dan diskusi, bukan pengikut arus 🔊</p>
+      <a href="https://www.instagram.com/linggarnicky/" target="_blank"><i class="fab fa-instagram"></i> Instagram</a>
+    </div>
+
+    <!-- Sekretaris -->
+    <div class="anggota sekretaris">
+      <img src="Aris.jpeg" alt="Abdul" />
+      <div class="jabatan-badge">SEKRETARIS</div>
+      <h3>🚀 Aris Dwi Novianto</h3>
+      <p>NIM: 13040124140164</p>
+      <p>🔥 "Never stop learning and keep pushing forward."</p>
+      <p style="color: #aaa;">Penuh semangat, selalu ingin berkembang dan maju 🚀</p>
+      <a href="https://www.instagram.com/arisnovimy/" target="_blank"><i class="fab fa-instagram"></i> Instagram</a>
+    </div>
+
+    <!-- Anggota -->
+    <div class="anggota anggota">
+      <img src="RENO.jpeg" alt="Reno" />
+      <div class="jabatan-badge">ANGGOTA</div>
+      <h3>🎨 Reno Putra Rahmaditya</h3>
+      <p>NIM: 13040124140160</p>
+      <p>💡 "Be creative and focus on your passion!"</p>
+      <p style="color: #aaa;">Kreator visual dengan semangat inovasi tinggi 🎬</p>
+      <a href="https://www.instagram.com/rznxgraphics/" target="_blank"><i class="fab fa-instagram"></i> Instagram</a>
+    </div>
+
+  </div>
+</section>
+
+
+<footer>
+  <p>&copy; 2025 Perpustakaan Akamsi - Anak Kampung Sini</p>
+</footer>
+
+</body>
+</html>
